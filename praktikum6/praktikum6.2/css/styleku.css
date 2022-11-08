@@ -1,0 +1,27 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    text-align: center;
+    color:  blue;
+}
+
+blockquote{
+    text-align: center;
+    border: 2px dotted black;
+    background-color: yellow;
+}
+
+#header{
+    background-color: burlywood;
+}
+
+.gambar{
+    margin: auto;
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
